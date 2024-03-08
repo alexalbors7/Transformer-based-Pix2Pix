@@ -1,2 +1,2 @@
 # Transformer-based-Pix2Pix
-Code for Deep Learning course at the University of Washington
+Final Project for CSE493G1: Deep Learning at the University of Washington. 
